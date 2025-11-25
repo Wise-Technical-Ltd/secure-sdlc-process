@@ -1,4 +1,4 @@
-baseURL = ${APP_URL}
+baseURL = getenv "APP_URL"
 languageCode = "en-us"
 title = "The Secure SDLC Process Template"
 theme = "hugo-book"
