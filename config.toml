@@ -1,4 +1,4 @@
-baseURL = "https://kosli.com/secure-sdlc-process-template/"
+baseURL = ${APP_URL}
 languageCode = "en-us"
 title = "The Secure SDLC Process Template"
 theme = "hugo-book"
