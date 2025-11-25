@@ -1,4 +1,4 @@
-baseURL = getenv "APP_URL"
+baseURL = "https://wise-sdlc-uicoj4sj.on-forge.com"
 languageCode = "en-us"
 title = "The Secure SDLC Process Template"
 theme = "hugo-book"
